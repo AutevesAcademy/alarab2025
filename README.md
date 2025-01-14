@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 First, run the development server:
 
-```bash
+```bash Rashid
 npm run dev
 # or
 yarn dev
@@ -12,6 +12,8 @@ yarn dev
 pnpm dev
 # or
 bun dev
+# at the time of hosting you have to create the build with the following commands like below by rashid now for seeing npm run dev
+npm run start
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
